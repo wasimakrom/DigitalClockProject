@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637437957 source:e:\project_c++\digital_clock\main.cpp
+	<iostream>
+	<windows.h>
+
